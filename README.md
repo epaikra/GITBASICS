@@ -1,2 +1,2 @@
 # GITBASICS
-Comandos vasicos de gift
+Comandos basicos de gift
